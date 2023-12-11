@@ -1,5 +1,3 @@
-# Crytographic-Tools
-
 # AES-CTR Keystream Decryption Tool
 
 ## Overview
